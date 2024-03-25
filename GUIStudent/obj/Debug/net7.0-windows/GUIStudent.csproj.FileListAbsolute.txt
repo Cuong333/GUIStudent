@@ -1,0 +1,16 @@
+D:\C++\GUIStudent\bin\Debug\net7.0-windows\GUIStudent.exe
+D:\C++\GUIStudent\bin\Debug\net7.0-windows\GUIStudent.deps.json
+D:\C++\GUIStudent\bin\Debug\net7.0-windows\GUIStudent.runtimeconfig.json
+D:\C++\GUIStudent\bin\Debug\net7.0-windows\GUIStudent.dll
+D:\C++\GUIStudent\bin\Debug\net7.0-windows\GUIStudent.pdb
+D:\C++\GUIStudent\obj\Debug\net7.0-windows\GUIStudent.Form1.resources
+D:\C++\GUIStudent\obj\Debug\net7.0-windows\GUIStudent.csproj.GenerateResource.cache
+D:\C++\GUIStudent\obj\Debug\net7.0-windows\GUIStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++\GUIStudent\obj\Debug\net7.0-windows\GUIStudent.AssemblyInfoInputs.cache
+D:\C++\GUIStudent\obj\Debug\net7.0-windows\GUIStudent.AssemblyInfo.cs
+D:\C++\GUIStudent\obj\Debug\net7.0-windows\GUIStudent.csproj.CoreCompileInputs.cache
+D:\C++\GUIStudent\obj\Debug\net7.0-windows\GUIStudent.dll
+D:\C++\GUIStudent\obj\Debug\net7.0-windows\refint\GUIStudent.dll
+D:\C++\GUIStudent\obj\Debug\net7.0-windows\GUIStudent.pdb
+D:\C++\GUIStudent\obj\Debug\net7.0-windows\GUIStudent.genruntimeconfig.cache
+D:\C++\GUIStudent\obj\Debug\net7.0-windows\ref\GUIStudent.dll
